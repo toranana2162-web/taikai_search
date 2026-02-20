@@ -4,7 +4,8 @@
  */
 
 // ★★★ ここにスプレッドシートのIDを設定してください ★★★
-const SPREADSHEET_ID = '1CRPUgBJ71GwXDtWPl1N8t0hkppXgOEAEwqg-8N_0-6k';
+// スプレッドシートのURLから取得: https://docs.google.com/spreadsheets/d/【ここがID】/edit
+const SPREADSHEET_ID = 'YOUR_SPREADSHEET_ID_HERE';
 
 // スプレッドシートを取得
 function getSpreadsheet() {
